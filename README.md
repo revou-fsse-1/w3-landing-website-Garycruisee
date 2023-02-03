@@ -20,6 +20,8 @@ and decipher the meaning of it.
 
 #### Link
 
+[Netlify](https://w3-landing-website-garycruisee.netlify.app/)
+
 ## Sources
 
 | Color & Photo                      | Used for      |
